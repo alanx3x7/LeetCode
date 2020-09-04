@@ -1,5 +1,5 @@
 class Solution:
-    
+
     def maxArea(self, height: List[int]) -> int:
 
         i = 0
